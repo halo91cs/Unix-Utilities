@@ -6,7 +6,7 @@ Implementation a collection of basic Unix utilities using low-level system calls
 ** The size utility prints the size of each file passed in as an argument.
 ./size file
 
-** The newest utility determines which file is the newest <\br>
+** The newest utility determines which file is the newest <br/>
 ** -a option indicates that access times of the files will be compared
 ** -m option indicates that modification times of the files will be compared
 ** -c option indicates that change times of the files will be compared
