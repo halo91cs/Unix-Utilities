@@ -4,7 +4,7 @@ Implementation a collection of basic Unix utilities using low-level system calls
 # Usage
 
 ** The size utility prints the size of each file passed in as an argument.<br/>
-./size file
+<b>./size file</b>
 
 ** The newest utility determines which file is the newest <br/>
 ** -a option indicates that access times of the files will be compared <br/>
